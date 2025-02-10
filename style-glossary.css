@@ -1,0 +1,111 @@
+.flip-card-inner { position: relative; width: 100%; height: 100%; text-align: center; transition: transform 0.8s; transform-style: preserve-3d; }
+.flip-card.flipped .flip-card-inner { transform: rotateY(180deg); }
+.flip-card-front, .flip-card-back { position: absolute;	width: 100%; height: 100%; -webkit-backface-visibility: hidden; backface-visibility: hidden; }
+.flip-card-front { background-color: #3d3d3d; color: white;	display: flex; justify-content: center;	align-items: center; box-sizing: border-box;	font-weight: 500; }
+.flip-card-back { background-color: #cc0000; color: white; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; padding: 30px; box-sizing: border-box; flex-direction: column; }
+.glossary-item-title { position: absolute; }
+.glossary-bg {width: 100%; height: inherit; opacity: 0.3; background-size: cover; background-position: center !important;}
+.glossary-content { display: flex; flex-wrap: wrap;	gap: 5px;	justify-content: center; align-items: center; }
+.glossary-item { width: max-content; min-height: 200px; min-width: 200px;	padding: 16px; background-color: white;	display: flex; justify-content: center;	align-items: center; cursor: pointer; border-radius: 10px; }
+.glossary-item:hover { background-color: #cc0000;	color: #fff; }
+.titleCard { margin-bottom: 20px; font-size: 20px;	font-weight: 600; }
+.glossary-close { display: flex; justify-content: end; padding-right: 16px;	font-size: 30px; font-weight: 600; color: #fff;	cursor: pointer; }
+.glossary-close:hover {	color: #cc0000; }
+h1.glossary-title { display: flex; justify-content: center; margin-top: -30px; margin-bottom: 40px; font-size: 42px; font-weight: 500; color: #fff; }
+strong { font-weight: 700; margin-top: 10px; }
+
+.flip-card { background-color: transparent; width: 100%; height: 380px; perspective: 1000px; text-transform: initial; cursor: pointer; }
+.flip-card.cardMM { height: 490px; }
+.glossary-box {position: fixed; left: 50%;	transform: translate(-50%, 0%); bottom: -100vh; transition: all 300ms; width: 100%; background-color: #232323; height: 95vh; z-index: 2147483647; border-radius: 60px 60px 0px 0px; }
+.glossaryOpen {bottom: 0; transition: all 300ms;}
+.glossary-box-scrool { position: fixed; left: 50%;	transform: translate(-50%, 0%); bottom: 50px; top: 60px; width: 90%; height: 80vh; overflow-y: auto; padding-right: 2%; padding-left: 5%; box-sizing: border-box;}
+
+@media (min-width: 768px) {
+	.glossary-box { min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px; }
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 565px; }
+	.flip-card.cardF { width: 565px; }
+	.flip-card.cardAnelControle { width: 565px; }
+}
+
+@media (min-width: 1105px) {
+	.glossary-box {min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px; }
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 564px;	height: 380px; }
+	.flip-card.cardAnelControle { width: 280px; }
+}
+
+@media (min-width: 1180px) {
+	.glossary-box {  min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px; }
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 589px; }
+	.flip-card.cardEFS { width: 305px; }
+	.flip-card.cardF { width: 540px; }
+	.flip-card.cardPrime { width: 255px; }
+}
+
+@media (min-width: 1456px) {
+	.glossary-box { min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px;}
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 591px; }
+	.flip-card.cardEFS { width: 305px; }
+	.flip-card.cardF { width: 540px; }
+	.flip-card.cardPrime { width: 255px; }
+	.flip-card.cardZoom { width: 282px; }
+	.flip-card.cardSerieL { width: 282px;}
+	.flip-card.cardUSM { width: 282px;}
+}
+
+@media (min-width: 1460px) {
+	.glossary-box { min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px; }
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 591px; }
+	.flip-card.cardEFS { width: 305px; }
+	.flip-card.cardF { width: 540px; }
+	.flip-card.cardPrime { width: 255px; }
+	.flip-card.cardZoom { width: 283px; }
+	.flip-card.cardSerieL { width: 282px;}
+	.flip-card.cardUSM { width: 282px;}
+	.flip-card.cardMacro {width: 281px;}
+	.flip-card.cardNanoUSM{ width: 282px;}
+	.flip-card.cardIS { width: 282px;}
+}
+
+@media (min-width: 1462px) {
+	.flip-card.cardZoom { width: 284px; }
+}
+
+@media (min-width: 1463px) {
+	.flip-card.cardZoom {width: 285px;}
+	.flip-card.cardMacro { width: 282px; }
+}
+
+@media (min-width: 1460px) {
+	.glossary-box { min-width: 300px; width: 87vw; height: 95vh; max-width: 1485px; }
+	.glossary-box-scrool { width: 81vw; height: 80vh; padding-right: 18px; padding-left: 18px; max-width: 1400px;}
+	.flip-card { width: 280px; height: 380px; }
+	.flip-card.cardMM { width: 590px; }
+}
+
+@media (min-width: 1465px) {
+	.flip-card.cardZoom {	width: 286px; }
+	.flip-card.cardMacro { width: 283px; }
+	.flip-card.cardNanoUSM { width: 283px; }
+}
+
+@media (min-width: 1473px) {
+	.flip-card { width: 379px; }
+	.flip-card.cardEFS { width: 593px; }
+	.flip-card.cardF { width: 550px; }
+	.flip-card.cardZoom { width: 289px; }
+	.flip-card.cardMacro { width: 377px; }
+	.flip-card.cardSerieL { width: 476px; }
+	.flip-card.cardUSM { width: 472px; }
+	.flip-card.cardVersion { width: 571px; }
+	.flip-card.cardAnelControle { width: 568px;}
+}

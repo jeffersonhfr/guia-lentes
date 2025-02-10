@@ -1,0 +1,997 @@
+[
+  {
+    "id": "5554C003AA",
+    "name": "RF 5.2mm f/2.8 L Dual Fisheye 3D VR",
+    "month": "RF",
+    "compatibility": [ "Mirrorless"],
+    "type": ["Super Grande Angular", "Grande Angular"],
+    "best": ["Realidade Virtual (VR)"],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/rf5-2mm-vr-01.jpg"
+		],
+    "productImage": "img/5554C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-5-2mm-f-2-8-l-dual-fisheye-3d-vr-can-5554c003aa/p"
+  },
+  {
+    "id": "4427B003AA",
+    "name": "EF 8-15mm f/4L Fisheye USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Super Grande Angular", "Grande Angular"],
+    "best": ["Arquitetura","Retrato", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_8-15mm_f4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_8-15mm_f4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_8-15mm_f4_03.jpg"
+		],
+    "productImage": "img/4427B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-8-15mm-f-4l-fisheye-usm-can-4427b003aa/p"
+  },
+  {
+    "id": "9519B003AA",
+    "name": "EF-S 10-18mm f/4.5-5.6 IS STM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Super Grande Angular", "Grande Angular"],
+    "best": ["Arquitetura", "Esporte", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/"
+		],
+    "productImage": "img/9519B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-s-10-18mm-f-4-5-5-6-is-stm-can-9519b003aa/p"
+  },
+  {
+    "id": "9518A003AA",
+    "name": "EF-S 10-22mm f/3.5-4.5 USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Super Grande Angular", "Grande Angular"],
+    "best": ["Arquitetura", "Esporte", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/"
+		],
+    "productImage": "img/9518A003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-s-10-22mm-f-3-5-4-5-usm-can-9518a003aa/p"
+  },
+  {
+    "id": "4857C003AA",
+    "name": "RF 14-35mm f/4 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Super Grande Angular", "Padrão"],
+    "best": ["Arquitetura", "Esporte", "Retrato",  "Paisagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-14-35mm-F4L-IS-USM--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-14-35mm-F4L-IS-USM--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-14-35mm-F4L-IS-USM--03.jpg"
+		],
+    "productImage": "img/4857C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-14-35mm-f-4-l-is-usm-can-4857c003aa/p"
+  },
+  {
+    "id": "5775C003AA",
+    "name": "RF 15-30mm f/4.5-6.3 IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular"],
+    "best": ["Arquitetura", "Esporte", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-15-30mm-is-stm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-15-30mm-is-stm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-15-30mm-is-stm--03.jpg"
+		],
+    "productImage": "img/5775C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-15-30mm-f-4-5-6-3-is-stm-can-5775c003aa/p"
+  },
+  {
+    "id": "3682C003AA",
+    "name": "RF 15-35mm f/2.8 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": [
+      "Arquitetura",
+			"Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Baixa Luz",
+      "Evento",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-RF-15-35-f28-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-RF-15-35-f28-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-RF-15-35-f28-is-usm--03.jpg"
+		],
+    "productImage": "img/3682C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-15-35mm-f-2-8-l-is-usm-can-3682c003aa/p"
+  },
+  {
+    "id": "5051C003AA",
+    "name": "RF 16mm f/2.8 STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Paisagem",
+      "Viagem",
+      "Baixa Luz",
+      "Evento",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_16mm_28_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_16mm_28_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_16mm_28_03.jpg"
+		],
+    "productImage": "img/5051C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-16mm-f-2-8-stm-can-5051c003aa/p"
+  },
+  {
+    "id": "0573C003AA",
+    "name": "EF 16-35mm f/2.8L III USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Baixa Luz",
+      "Viagem",
+      "Evento",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_2-8_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_2-8_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_2-8_03.jpg"
+		],
+    "productImage": "img/0573C003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-16-35mm-f-2-8l-iii-usm-can-0573c003aa/p"
+  },
+  {
+    "id": "9518B003AA",
+    "name": "EF 16-35mm f/4L IS USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_f4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_f4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_16-35mm_f4_03.jpg"
+		],
+    "productImage": "img/9518B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-16-35mm-f-4l-is-usm-can-9518b003aa_pai/p"
+  },
+  {
+    "id": "8806A003AA",
+    "name": "EF 17-40mm f/4L USM ",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_17-40mm_f4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_17-40mm_f4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_17-40mm_f4_03.jpg"
+		],
+    "productImage": "img/8806A003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-17-40mm-f-4l-usm-can-8806a003aa/p"
+  },
+  {
+    "id": "1242B003AA",
+    "name": "EF-S 17-55mm f/2.8 IS USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": ["Arquitetura", "Esporte", "Retrato", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/"
+		],
+    "productImage": "img/1242B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-s-17-55mm-f-2-8-is-usm-can-1242b003aa/p"
+  },
+  {
+    "id": "4858C003AA",
+    "name": "RF-S 18-45mm f/4.5-6.3 IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": ["Arquitetura", "Esporte", "Retrato", "Paisagem", "Viagem", "Evento", "Vlog"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-45mm-is-stm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-45mm-is-stm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-45mm-is-stm--03.jpg"
+		],
+    "productImage": "img/4858C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-s-18-45mm-f-4-5-6-3-is-stm-can-4858c003aa/p"
+  },
+  {
+    "id": "5564C003AA",
+    "name": "RF-S 18-150mm f/3.5-6.3 IS STM ",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão", "Tele Objetiva"],
+    "best": [
+			"Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-150mm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-150mm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-s-18-150mm--03.jpg"
+		],
+    "productImage": "img/5564C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-s-18-150mm-f-3-5-6-3-is-stm-can-5564c003aa/p"
+  },
+  {
+    "id": "2750B003AA",
+    "name": "EF 24mm f/1.4L II USM ",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_ef_24mm_f1-4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_ef_24mm_f1-4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_ef_24mm_f1-4_03.jpg"
+		],
+    "productImage": "img/2750B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-24mm-f-1-4l-ii-usm-can-2750b003aa/p"
+  },
+  {
+    "id": "9522B003AA",
+    "name": "EF-S 24mm f/2.8 STM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+		"type": ["Grande Angular"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_ef-s_24mm_2-8_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_ef-s_24mm_2-8_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_ef-s_24mm_2-8_03.jpg"
+		],
+    "productImage": "img/9522B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-s-24mm-f-2-8-stm-can-9522b003aa/p"
+  },
+  {
+    "id": "5668C003AA",
+    "name": "RF 24mm f/1.8 Macro IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Macro"],
+    "best": [
+      "Arquitetura",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Macro",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-24mm-macro-is-stm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-24mm-macro-is-stm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-24mm-macro-is-stm--03.jpg"
+		],
+    "productImage": "img/5668C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-24mm-f-1-8-macro-is-stm-can-5668c003aa/p"
+  },
+  {
+    "id": "5175B003AA",
+    "name": "EF 24-70mm f/2.8L II USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": [
+			"Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_24-70mm_f2-8L_II_USM_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_24-70mm_f2-8L_II_USM_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_24-70mm_f2-8L_II_USM_03.jpg"
+		],
+    "productImage": "img/5175B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-24-70mm-f-2-8l-ii-usm-can-5175b003aa/p"
+  },
+  {
+    "id": "3680C003AA",
+    "name": "RF 24-70mm f/2.8 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": [
+			"Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF-24-70mm-f2-8-01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF-24-70mm-f2-8-02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF-24-70mm-f2-8-03.jpg"
+		],
+    "productImage": "img/3680C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-24-70mm-f-2-8-l-is-usm-can-3680c003aa/p"
+  },
+  {
+    "id": "4111C003AA",
+    "name": "RF 24-105mm f/4-7.1 IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão", "Tele Objetiva"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_RF_24-105mm_f4-7_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_RF_24-105mm_f4-7_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_RF_24-105mm_f4-7_03.jpg"
+		],
+    "productImage": "img/3680C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-24-105mm-f-4-7-1-is-stm-can-4111c003aa/p"
+  },
+  {
+    "id": "1380C003AA",
+    "name": "EF 24-105mm f/4L IS II USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Grande Angular", "Padrão", "Tele Objetiva"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/"
+		],
+    "productImage": "img/1380C003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-24-105mm-f-4l-is-ii-usm-can-1380c003aa/p"
+  },
+  {
+    "id": "2963C003AA",
+    "name": "RF 24-105mm f/4 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão", "Tele Objetiva"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Vlog"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_24-105mm_f4_is_usm_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_24-105mm_f4_is_usm_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf_24-105mm_f4_is_usm_03.jpg"
+		],
+    "productImage": "img/2963C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-24-105mm-f-4-l-is-usm-can-2963c003aa/p"
+  },
+  {
+    "id": "2965C003AA",
+    "name": "RF 28-70mm f/2 L USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Grande Angular", "Padrão"],
+    "best": [
+      "Arquitetura",
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Baixa Luz"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF_28-70mm-f2-01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF_28-70mm-f2-02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_RF_28-70mm-f2-03.jpg"
+		],
+    "productImage": "img/2965C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-28-70mm-f-2-l-usm-can-2965c003aa/p"
+  },
+  {
+    "id": "9523B003AA",
+    "name": "EF 35mm f/1.4L II USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+		"type": ["Padrão"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_35mm_1-4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_35mm_1-4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_35mm_1-4_03.jpg"
+		],
+    "productImage": "img/9523B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-35mm-f-1-4l-ii-usm-can-9523b003aa/p"
+  },
+  {
+    "id": "2973C003AA",
+    "name": "RF 35mm f/1.8 Macro IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão", "Macro"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Paisagem",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vlog"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-35MM-Macro--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-35MM-Macro--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-35MM-Macro--03.jpg"
+		],
+    "productImage": "img/2973C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-35mm-f-1-8-macro-is-stm-can-2973c003aa/p"
+  },
+  {
+    "id": "1257B003AA",
+    "name": "EF 50mm f/1.2L USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_f1-2_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_f1-2_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_f1-2_03.jpg"
+		],
+    "productImage": "img/1257B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-50mm-f-1-2l-usm-can-1257b003aa/p"
+  },
+  {
+    "id": "2959C003AA",
+    "name": "RF 50mm f/1.2 L USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_rf50mm_1_2_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_rf50mm_1_2_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples_rf50mm_1_2_03.jpg"
+		],
+    "productImage": "img/2959C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-50mm-f-1-2-l-usm-can-2959c003aa/p"
+  },
+  {
+    "id": "4515C003AA",
+    "name": "RF 50mm f/1.8 STM ",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-50MM-f18_stm-01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-50MM-f18_stm-02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-50MM-f18_stm-03.jpg"
+		],
+    "productImage": "img/4515C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-50mm-f-1-8-stm-can-4515c003aa/p"
+  },
+  {
+    "id": "2515A004BA",
+    "name": "EF 50mm f/1.4 USM ",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_50mm_1-4_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_50mm_1-4_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_50mm_1-4_03.jpg"
+		],
+    "productImage": "img/2515A004BA.png",
+    "link": "https://loja.canon.com.br/lente-ef-50mm-f-1-4-usm-can-2515a004ba/p"
+  },
+  {
+    "id": "0570C003AA",
+    "name": "EF 50mm f/1.8 STM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_1-8_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_1-8_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_50mm_1-8_03.jpg"
+		],
+    "productImage": "img/0570C003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-50mm-f-1-8-stm-can-0570c003aa/p"
+  },
+  {
+    "id": "2519A004BA",
+    "name": "EF 85mm f/1.8 USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vida Selvagem"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_85mm_1-8_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_85mm_1-8_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_85mm_1-8_03.jpg"
+		],
+    "productImage": "img/2519A004BA.png",
+    "link": "https://loja.canon.com.br/lente-ef-85mm-f-1-8-usm-can-2519a004ba/p"
+  },
+  {
+    "id": "4234C003AA",
+    "name": "RF 85mm f/2 Macro IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão", "Macro"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vida Selvagem",
+      "Macro"
+    ],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf85mm_f2_macro_br_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf85mm_f2_macro_br_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf85mm_f2_macro_br_03.jpg"
+		],
+    "productImage": "img/4234C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-85mm-f-2-macro-is-stm-can-4234c003aa/p"
+  },
+  {
+    "id": "3447C003AA",
+    "name": "RF 85mm f/1.2 L USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Viagem",
+      "Evento",
+      "Baixa Luz",
+      "Vida Selvagem"
+    ],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-85MM-F1-2-L-USM--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-85MM-F1-2-L-USM--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-85MM-F1-2-L-USM--03.jpg"
+		],
+    "productImage": "img/3447C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-85mm-f-1-2-l-usm-can-3447c003aa/p"
+  },
+  {
+    "id": "3044C003AA",
+    "name": "EF 70-200mm f/2.8L IS III USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão", "Tele Objetiva"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Baixa Luz"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_70-200mm_2-8_is_iii_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_70-200mm_2-8_is_iii_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_70-200mm_2-8_is_iii_03.jpg"
+		],
+    "productImage": "img/3044C003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-70-200mm-f-2-8l-is-iii-usm-can-3044c003aa/p"
+  },
+  {
+    "id": "3792C003AA",
+    "name": "RF 70-200mm f/2.8 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão", "Tele Objetiva"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Viagem",
+      "Evento",
+      "Vida Selvagem",
+      "Baixa Luz"
+    ],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-70-200-f28-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-70-200-f28-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-70-200-f28-is-usm--03.jpg"
+		],
+    "productImage": "img/3792C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-70-200mm-f-2-8-l-is-usm-can-3792c003aa/p"
+  },
+  {
+    "id": "4318C003AA",
+    "name": "RF 70-200mm f/4 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Padrão", "Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-70-200MM-F4-L-IS-USM--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-70-200MM-F4-L-IS-USM--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-70-200MM-F4-L-IS-USM--03.jpg"
+		],
+    "productImage": "img/4318C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-70-200mm-f-4-l-is-usm-can-4318c003aa/p"
+  },
+  {
+    "id": "0571C003AA",
+    "name": "EF 70-300mm f/4-5.6 IS II USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão", "Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/"
+		],
+    "productImage": "img/0571C003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-70-300mm-f-4-5-6-is-ii-usm-can-0571c003aa/p"
+  },
+  {
+    "id": "6473A002AA",
+    "name": "EF 75-300mm f/4-5.6 III",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Padrão", "Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Viagem", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_75-300_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_75-300_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_new_75-300_03.jpg"
+		],
+    "productImage": "img/6473A002AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-75-300mm-f-4-5-6-iii-can-6473a002aa/p"
+  },
+  {
+    "id": "3554B003AA",
+    "name": "EF 100mm f/2.8L Macro IS USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+    "type": ["Tele Objetiva", "Macro"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Evento",
+      "Macro",
+      "Vida Selvagem",
+      "Baixa Luz"
+    ],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100mm_Macro_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100mm_Macro_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100mm_Macro_03.jpg"
+		],
+    "productImage": "img/3554B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-100mm-f-2-8l-macro-is-usm-can-3554b003aa/p"
+  },
+  {
+    "id": "4514C003AA",
+    "name": "RF 100mm f/2.8 L Macro IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Tele Objetiva", "Macro"],
+    "best": [
+      "Esporte",
+      "Retrato",
+      "Evento",
+      "Macro",
+      "Vida Selvagem",
+      "Baixa Luz"
+    ],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-100MM-F2-8-Macro-USM--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-100MM-F2-8-Macro-USM--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample-lente-rf-100MM-F2-8-Macro-USM--03.jpg"
+		],
+    "productImage": "img/4514C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-100mm-f-2-8-l-macro-is-usm-can-4514c003aa/p"
+  },
+  {
+    "id": "9524B003AA",
+    "name": "EF 100-400mm f/4.5-5.6L IS II USM",
+    "month": "EF",
+    "compatibility": ["DSLR", "Mirrorless"],
+		"type": ["Tele Objetiva" , "Super Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100-400mm_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100-400mm_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_xlente_100-400mm_03.jpg"
+		],
+    "productImage": "img/9524B003AA.png",
+    "link": "https://loja.canon.com.br/lente-ef-100-400mm-f-4-5-5-6l-is-ii-usm-can-9524b003aa/p"
+  },
+  {
+    "id": "5050C003AA",
+    "name": "RF 100-400mm f/5.6-8 IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Tele Objetiva" , "Super Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-400-f56-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-400-f56-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-400-f56-is-usm--03.jpg"
+		],
+    "productImage": "img/5050C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-100-400mm-f-5-6-8-is-usm-can-5050c003aa/p"
+  },
+  {
+    "id": "4112C003AA",
+    "name": "RF 100-500mm f/4.5-7.1 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Tele Objetiva" , "Super Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Evento", "Vida Selvagem"],
+    "zoom": "Sim",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-500mm-f45-l-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-500mm-f45-l-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-100-500mm-f45-l-is-usm--03.jpg"
+		],
+    "productImage": "img/4112C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-100-500mm-f-4-5-7-1-l-is-usm-can-4112c003aa/p"
+  },
+  {
+    "id": "5053C003AA",
+    "name": "RF 400mm f/2.8 L IS USM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Super Tele Objetiva"],
+    "best": ["Esporte", "Retrato", "Evento", "Vida Selvagem", "Baixa Luz"],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf400mm-f28-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf400mm-f28-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf400mm-f28-is-usm--03.jpg"
+		],
+    "productImage": "img/5053C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-400mm-f-2-8-l-is-usm-can-5053c003aa/p"
+  },
+  {
+    "id": "3986C003AA",
+    "name": "RF 600mm f/11 IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Super Tele Objetiva"],
+    "best": ["Esporte", "Vida Selvagem", "Viagem"],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf600mm_f11_br_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf600mm_f11_br_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf600mm_f11_br_03.jpg"
+		],
+    "productImage": "img/3986C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-600mm-f-11-is-stm-can-3986c003aa/p"
+  },
+  {
+    "id": "5054C003AA",
+    "name": "RF 600mm f/4 L IS USM ",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Super Tele Objetiva"],
+    "best": ["Esporte", "Vida Selvagem"],
+    "zoom": "Não",
+    "seriesL": "Sim",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-600mm-f4l-is-usm--01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-600mm-f4l-is-usm--02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/samples-rf-600mm-f4l-is-usm--03.jpg"
+		],
+    "productImage": "img/5054C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-600mm-f-4-l-is-usm-can-5054c003aa/p"
+  },
+  {
+    "id": "3987C003AA",
+    "name": "RF 800mm f/11 IS STM",
+    "month": "RF",
+    "compatibility": ["Mirrorless"],
+    "type": ["Super Tele Objetiva"],
+    "best": ["Esporte", "Vida Selvagem", "Viagem"],
+    "zoom": "Não",
+    "seriesL": "Não",
+    "samples": [
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf800mm_f11_br_01.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf800mm_f11_br_02.jpg",
+			"https://extranet.canon.com.br/ecommerce/_files/lens-guide/img/sample/sample_rf800mm_f11_br_03.jpg"
+		],
+    "productImage": "img/3987C003AA.png",
+    "link": "https://loja.canon.com.br/lente-rf-800mm-f-11-is-stm-can-3987c003aa/p"
+  }
+]
